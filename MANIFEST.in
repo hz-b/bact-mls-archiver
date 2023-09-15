@@ -1,0 +1,2 @@
+# configuration files
+include bact_archiver_mls/*.cfg
